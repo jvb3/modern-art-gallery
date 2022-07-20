@@ -1,10 +1,5 @@
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello World</h1>
-      <h2>This is my react app.</h2>
-    </div>
-  );
+  return <div className="App"></div>;
 }
 
 export default App;
