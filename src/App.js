@@ -65,12 +65,12 @@ function App() {
       </section>
       <div className="footer-container">
         <footer className="footer">
-          <img src="icons/logo-light.svg" alt="" />
-          <p>
+          <img className="footer__logo" src="icons/logo-light.svg" alt="" />
+          <p className="footer__text">
             The Modern Art Gallery is free to all visitors and open seven days a
             week from 8am to 9pm. Find us at 99 King Street, Newport, USA.
           </p>
-          <div className="icons">
+          <div className="footer__icons">
             <img src="icons/icon-facebook.svg" alt="" />
             <img src="icons/icon-instagram.svg" alt="" />
             <img src="icons/icon-twitter.svg" alt="" />
