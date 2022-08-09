@@ -1,0 +1,25 @@
+.footer-container {
+  padding: 0 1rem 0 1rem;
+}
+.footer__logo {
+  padding: 3rem 2rem 3rem 2rem;
+}
+.footer__text {
+  padding: 0 2rem 2rem 2rem;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 26px;
+}
+.footer__icons {
+  display: flex;
+  gap: 1rem;
+  padding: 0 0 3rem 2rem;
+}
+.footer {
+  background-color: $black;
+  color: $white;
+  font-family: $ff-bd;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 26px;
+}

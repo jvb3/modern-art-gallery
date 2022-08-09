@@ -1,0 +1,30 @@
+.mid-container {
+  background-color: black;
+  min-width: 375px;
+  padding: 3rem 1rem 3rem 1rem;
+}
+
+.title {
+  font-family: $ff-hd;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 45px;
+  color: $white;
+  padding-bottom: 3rem;
+}
+.sub-title {
+  color: $orange;
+  font-family: $ff-hd;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 32px;
+  padding-bottom: 1.5rem;
+}
+.text {
+  color: $white;
+  font-family: $ff-bd;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  padding-bottom: 1rem;
+}

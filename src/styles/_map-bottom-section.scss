@@ -1,0 +1,17 @@
+.bottom-container {
+  background-color: $orange;
+  min-width: 375px;
+  padding: 1rem;
+}
+.bottom-container > .text {
+  color: black;
+  padding-bottom: 3rem;
+}
+.logo {
+  padding: 3rem 0 3rem 0;
+}
+.icons {
+  display: flex;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}

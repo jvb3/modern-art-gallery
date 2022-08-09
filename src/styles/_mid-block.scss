@@ -1,0 +1,48 @@
+.mid-block-container {
+  padding: 0 1rem 7.5rem 1rem;
+}
+.mid-block__heading {
+  font-family: $ff-hd;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 45px;
+  padding: 1.5rem 0rem 1.5rem 0rem;
+}
+.mid-block__heading--white {
+  font-family: $ff-hd;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 45px;
+}
+.mid-block__text {
+  font-family: $ff-bd;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  padding: 0 0rem 2rem 0rem;
+}
+.mid-block__text--white {
+  font-family: $ff-bd;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+}
+.mid-block__image {
+  width: 100%;
+}
+.mid-block__image-2 {
+  padding: 0 0 1rem 0;
+  width: 100%;
+}
+.mid-block__image-3 {
+  padding: 0 0 1rem 0;
+  width: 100%;
+}
+.mid-block__heading--white {
+  padding: 2.9rem 2.3rem 3.2rem 2.3rem;
+}
+
+.mid-block__text--white {
+  padding: 0 2.5rem 3.5rem 2.5rem;
+  line-height: 28px;
+}
