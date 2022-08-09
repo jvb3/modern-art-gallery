@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/modern-art-gallery/static/css/main.e93aa81b.css",
-    "main.js": "/modern-art-gallery/static/js/main.df6d6b4d.js",
+    "main.js": "/modern-art-gallery/static/js/main.5d63c15d.js",
     "index.html": "/modern-art-gallery/index.html",
     "main.e93aa81b.css.map": "/modern-art-gallery/static/css/main.e93aa81b.css.map",
-    "main.df6d6b4d.js.map": "/modern-art-gallery/static/js/main.df6d6b4d.js.map"
+    "main.5d63c15d.js.map": "/modern-art-gallery/static/js/main.5d63c15d.js.map"
   },
   "entrypoints": [
     "static/css/main.e93aa81b.css",
-    "static/js/main.df6d6b4d.js"
+    "static/js/main.5d63c15d.js"
   ]
 }
