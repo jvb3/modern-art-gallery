@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<MainPage />} />
+        <Route basename="/modern-art-gallery" path="/" element={<MainPage />} />
         <Route path="/location" element={<Map />} />
       </Routes>
     </Router>
