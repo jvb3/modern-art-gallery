@@ -5,7 +5,14 @@ import MainPage from "./MainPage";
 import Map from "./Map";
 
 function App() {
-  return <div>Hello</div>;
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<MainPage />} />
+        <Route path="/location" element={<Map />} />
+      </Routes>
+    </Router>
+  );
 }
 
 export default App;
