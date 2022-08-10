@@ -292,6 +292,16 @@ $breakpoints: (
       padding-top: 8.5rem;
       width: 400px;
     }
+    .head-block__heading {
+      position: relative;
+    }
+    .head-block__heading p {
+      background: linear-gradient(to left, $black 36.5%, $white 36.5%);
+      -webkit-background-clip: text;
+      color: transparent;
+      position: absolute;
+      left: 158px;
+    }
   }
   .mid-block-bottom-container {
     height: 100%;

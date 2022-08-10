@@ -6,9 +6,9 @@ import Map from "./Map";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/modern-art-gallery">
       <Routes>
-        <Route basename="/modern-art-gallery" path="/" element={<MainPage />} />
+        <Route path="/" element={<MainPage />} />
         <Route path="/location" element={<Map />} />
       </Routes>
     </Router>

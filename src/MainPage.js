@@ -19,9 +19,11 @@ function MainPage() {
         />
         <img className="image-hero-dt" src="images-dt/image-hero.jpg" alt="#" />
 
-        <p className="head-block__heading">
-          MODERN <br /> ART GALLERY
-        </p>
+        <div className="head-block__heading">
+          <p>
+            MODERN <br /> ART GALLERY
+          </p>
+        </div>
         <p className="head-block__heading-black"></p>
         <div className="head-block__text-button-container">
           <p className="head-block__text">

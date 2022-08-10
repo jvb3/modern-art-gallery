@@ -372,6 +372,16 @@
     padding-top: 8.5rem;
     width: 400px;
   }
+  .head-block .head-block__heading {
+    position: relative;
+  }
+  .head-block .head-block__heading p {
+    background: linear-gradient(to left, rgb(21, 21, 21) 36.5%, rgb(255, 255, 255) 36.5%);
+    -webkit-background-clip: text;
+    color: transparent;
+    position: absolute;
+    left: 158px;
+  }
   .mid-block-bottom-container {
     height: 100%;
   }
